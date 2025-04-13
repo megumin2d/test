@@ -3,7 +3,7 @@
  
  
  
-local defaultTime = 600 -- Enter Time
+local defaultTime = 610 -- Enter Time
  
  
  
